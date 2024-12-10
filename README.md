@@ -5,7 +5,7 @@
 
 
 <p style="color: #f4fc03;">
-Olá, sou João Pedro, um desenvolvedor e estudante full-stack do Brasil.
+Olá, sou João Pedro, um desenvolvedor/estudante full-stack do Brasil.
 
 Tenho mais de dois anos de experiência focada em estudos de programação e estou ansioso para encontrar oportunidades onde possa colocar meu conhecimento em prática. Tenho uma paixão pelo aprendizado contínuo e estou sempre buscando expandir meus conhecimentos.
 
@@ -19,14 +19,14 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 ## Frameworks e Linguagens: 🔠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,jquery,php,java,spring,bash,mysql"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,angular,react,php,mysql,java,spring"/>
   </a>
 </p>
 
 ## Ferramentas: ⚒️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,github,git,githubactions,stackoverflow,powershell,npm,maven"/>
+    <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,stackoverflow,npm,maven,docker"/>
   </a>
 </p>
 
@@ -47,7 +47,7 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 ## Estudando: 🎓
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,kubernetes,nodejs,docker"/>
+      <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,nodejs"/>
     </a>
   </p>
   
