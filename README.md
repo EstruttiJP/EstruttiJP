@@ -59,7 +59,6 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 
 
 <p align="center">
-        <img src="https://streak-stats.demolab.com/?user=EstruttiJP&theme=tokyonight"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstruttiJP&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EstruttiJP&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EstruttiJP&theme=tokyonight">
