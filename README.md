@@ -19,7 +19,7 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 ## Frameworks e Linguagens: 🔠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,angular,react,php,mysql,java,spring"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,angular,reactivex,react,php,mysql,java,spring"/>
   </a>
 </p>
 
