@@ -47,7 +47,7 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 ## Estudando: 🎓
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,nodejs,python"/>
+      <img src="https://skillicons.dev/icons?i=aws,kubernetes,nodejs,python"/>
     </a>
   </p>
   
