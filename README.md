@@ -26,14 +26,14 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 ## Ferramentas: ⚒️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,stackoverflow,npm,maven,docker"/>
+    <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,postman,stackoverflow,npm,maven,docker"/>
   </a>
 </p>
 
 ## Ide's: 🛠️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,eclipse,visualstudio"/>
   </a>
 </p>
 
@@ -47,7 +47,7 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 ## Estudando: 🎓
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,kubernetes,laravel,nodejs,python"/>
+      <img src="https://skillicons.dev/icons?i=aws,kubernetes,nodejs,python"/>
     </a>
   </p>
   
