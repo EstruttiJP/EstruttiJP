@@ -69,7 +69,7 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 <hr>
 
 ## Como Entrar em Contato 📞
-- [![Gmail](https://img.shields.io/badge/Gmail-0F0F0F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:716cobre@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-0F0F0F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:estruttijp.dev@gmail.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-0F0F0F?style=for-the-badge&logo=Instagram&logoColor=00CED1)](https://www.instagram.com/jaojao_sk8)
 
 
