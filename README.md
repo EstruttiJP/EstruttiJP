@@ -20,12 +20,13 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 
 <div align="center">
   <a href="https://estruttijp.netlify.app" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <h3 style="color: #f4fc03;">> Visite meu Portfólio!! <</h3>
+    <h3 style="color: #f4fc03;"> Visite meu Portfólio!! </h3>
   </a>
 </div>
 
 <hr>
-# 🎖️ Habilidades:
+
+## 🎖️ Habilidades:
 
 ## Frameworks e Linguagens: 🔠
 <p align="center">
