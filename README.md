@@ -18,9 +18,9 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 
 <p align="center" style="color: #f4fc03; font-style: italic;">(sem domínio, por enquanto...)</p>
 
-<div align="center">
-    <h3 style="color: #f4fc03;"> [Visite meu Portfolio!!](https://estruttijp.netlify.app) </h3>
-</div>
+Confira meu portfolio online:
+[Visite meu Portfolio](https://estruttijp.netlify.app)
+
 
 <hr>
 
