@@ -14,6 +14,12 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 
 <hr>
 
+## Meu Portfolio (sem domínio, por enquanto...)
+
+Confira meu portfolio online:
+[Visite meu Portfolio](https://estruttijp.netlify.app)
+
+<hr>
 # 🎖️ Habilidades:
 
 ## Frameworks e Linguagens: 🔠
@@ -47,7 +53,7 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 ## Estudando: 🎓
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,kubernetes,nodejs,python"/>
+      <img src="https://skillicons.dev/icons?i=aws,kubernetes,nodejs,python,ts"/>
     </a>
   </p>
   
