@@ -19,10 +19,7 @@ Além disso, adoro ajudar outras pessoas que têm dúvidas nas áreas em que sou
 <p align="center" style="color: #f4fc03; font-style: italic;">(sem domínio, por enquanto...)</p>
 
 <div align="center">
-  <a href="https://estruttijp.netlify.app" target="_blank" rel="noopener noreferrer">
-    <!-- Substitua o link abaixo por um screenshot do seu site, se preferir -->
-    <img src="https://via.placeholder.com/600x400?text=Meu+Portfolio" alt="Meu Portfolio" style="max-width: 100%; border: 3px solid #f4fc03; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </a>
+  [![Meu Portfolio](https://estruttijp.netlify.app/favicon.ico)](https://estruttijp.netlify.app)
   <br>
   <a href="https://estruttijp.netlify.app" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <h3 style="color: #f4fc03;">Visite meu Portfolio</h3>
