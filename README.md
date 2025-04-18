@@ -79,8 +79,10 @@ Confira meu portfolio online:
 <hr>
 
 ## Como Entrar em Contato 📞
-- [![Gmail](https://img.shields.io/badge/Gmail-0F0F0F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:estruttijp.dev@gmail.com)
-- [![Instagram](https://img.shields.io/badge/Instagram-0F0F0F?style=for-the-badge&logo=Instagram&logoColor=00CED1)](https://www.instagram.com/jaojao_sk8)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-estrutti/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estruttijp.dev@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaojao_sk8)
 
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
