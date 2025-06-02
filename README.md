@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center" style="color: #f4fc03;">
-  Olá! Eu sou *João Pedro Estrutti*, 
+  Olá! Eu sou **João Pedro Estrutti**, 
   <br>
   desenvolvedor full‑stack e estagiário de desenvolvimento de sistemas 🚀
 </p>
@@ -19,7 +19,7 @@
 <p style="color: #f4fc03;">
   Atualmente, trabalho como *Estagiário de Desenvolvimento de Sistemas* na 
   [Tecnoar Compressores](https://tecnoarcompressores.com.br) (empresa com foco em compressores industriais), 
-  onde atuo na *automação de processos internos* e no *desenvolvimento de ferramentas em PHP/Laravel*.
+  onde atuo na **automação de processos internos** e no **desenvolvimento de ferramentas em PHP/Laravel**.
   Mesmo em um ambiente que não é predominantemente de tecnologia, tenho a oportunidade diária de aplicar 
   meus conhecimentos e criar soluções que otimizam o fluxo de trabalho. 
   
