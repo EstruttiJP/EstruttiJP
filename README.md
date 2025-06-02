@@ -1,8 +1,9 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EstruttiJP.visitor-badge&left_color=blue&right_color=red" />
-
+<br>
+<br>
 <p align="center" style="color: #f4fc03;">
-  Olá! Eu sou **João Pedro Estrutti**, 
+  Olá! Eu sou *João Pedro Estrutti*, 
   <br>
   desenvolvedor full‑stack e estagiário de desenvolvimento de sistemas 🚀
 </p>
@@ -16,9 +17,9 @@
 ## 👨‍💻 Sobre mim
 
 <p style="color: #f4fc03;">
-  Atualmente, trabalho como **Estagiário de Desenvolvimento de Sistemas** na 
+  Atualmente, trabalho como *Estagiário de Desenvolvimento de Sistemas* na 
   [Tecnoar Compressores](https://tecnoarcompressores.com.br) (empresa com foco em compressores industriais), 
-  onde atuo na **automação de processos internos** e no **desenvolvimento de ferramentas em PHP/Laravel**.
+  onde atuo na *automação de processos internos* e no *desenvolvimento de ferramentas em PHP/Laravel*.
   Mesmo em um ambiente que não é predominantemente de tecnologia, tenho a oportunidade diária de aplicar 
   meus conhecimentos e criar soluções que otimizam o fluxo de trabalho. 
   
@@ -31,7 +32,7 @@
 
 ## 🚀 Experiência Profissional
 
-### Estagiário de Desenvolvimento de Sistemas — Tecnoar Compressores  
+#### Estagiário de Desenvolvimento de Sistemas — Tecnoar Compressores  
 *Maio 2025 – Atual*  
 - Automação de processos internos usando **PHP 8.3** e **Laravel**  
 - Integração com **SQL Server** legado para consultas, relatórios e manutenção de dados  
