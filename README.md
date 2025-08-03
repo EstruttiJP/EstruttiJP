@@ -68,11 +68,12 @@
 ### ⚒️ Ferramentas e Serviços
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,postman,stackoverflow,npm,maven,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=bash,aws,git,github,githubactions,postman,stackoverflow,npm,maven,docker,kubernetes" />
   </a>
 </p>
 
 - **Docker** (containers, Docker Compose)  
+- **Bash** (automação de tarefas, scripts para servidores e DevOps)
 - **GitHub Actions** (CI/CD básico)  
 - **Postman** (testes de API)  
 - **AWS** (EC2, S3 – em estudo)  
