@@ -23,7 +23,7 @@
   Mesmo em um ambiente que não é predominantemente de tecnologia, tenho a oportunidade diária de aplicar 
   meus conhecimentos e criar soluções que otimizam o fluxo de trabalho. 
   
-  Tenho mais de dois anos de estudo constante em programação e estou sempre buscando novos desafios 
+  Tenho mais de trẽs anos de estudo constante em programação e estou sempre buscando novos desafios 
   para aprender e compartilhar conhecimento. Adoro ajudar a respondendo dúvidas e acredito que ensinar faz parte do processo de evolução.
 </p>
 
@@ -42,10 +42,9 @@
 
 ## 🌐 Meu Portfólio
 
-> Ainda sem domínio próprio, mas em breve espero ter um site oficial com projetos mais completos!  
-<p style="color: #f4fc03; font-style: italic;">(por enquanto, hospedado no Netlify)</p>
+> Agora com domínio próprio e casa nova. O site evoluiu junto comigo, e continua recebendo projetos, melhorias e umas firulinhas nerds aqui e ali.
 
-👉 [Visite meu Portfólio](https://estruttijp.netlify.app)  
+👉 [Visite meu Portfólio](https://estruttijp.dev.br)  
 
 ---
 
@@ -118,7 +117,8 @@
 ## 📫 Como me encontrar
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-estrutti/)  
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estruttijp.dev@gmail.com)  
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaojao_sk8)  
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@estruttijp.dev.br)  
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaojao_dev)
+- [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://estruttijp.dev.br)
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
