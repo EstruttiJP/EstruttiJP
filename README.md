@@ -32,11 +32,18 @@
 ## 🚀 Experiência Profissional
 
 #### Estagiário de Desenvolvimento de Sistemas — Tecnoar Compressores  
-*Maio 2025 – Atual*  
+*Maio 2025 – Fevereiro 2026*  
 - Automação de processos internos usando **PHP 8.3** e **Laravel**  
 - Integração com **SQL Server** legado para consultas, relatórios e manutenção de dados  
 - Criação de scripts em **Bash** e uso de **Docker** para testes locais  
-- Desenvolvimento de pequenas APIs REST para consumo interno  
+- Desenvolvimento de pequenas APIs REST para consumo interno
+
+#### Desenvolvedor Júnior — Tecnoar Compressores  
+*Março 2026 – atual*  
+- **Mobile (ERP)**: Desenvolvimento de aplicativo corporativo utilizando **React Native**, cobrindo o fluxo completo de ponta a ponta para equipes técnicas de campo.
+- Automação End-to-End: Fluxo de **e-commerce/marketplace automatizado**, reduzindo a intervenção humana apenas à separação física do produto.
+- Integrações Críticas: Implementação de pipelines automatizados com foco em finanças (**APIs bancárias**) e fiscal (**SEFAZ** em tempo real).
+- **Core & Infra**: Refatoração de sistema legado, desenvolvimento e manutenção de ERP interno (Tecnoar Tech).
 
 ---
 
